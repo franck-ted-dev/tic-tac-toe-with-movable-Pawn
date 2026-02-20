@@ -27,7 +27,7 @@ g++ -I include main.cpp src/Board.cpp src/Game.cpp src/Player.cpp -o tictactoe
 ### Ausführen
 
 ```bash
-./ticTacToe
+./tictactoe
 ```
 
 
