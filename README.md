@@ -1,13 +1,13 @@
 # Tic-Tac-Toe mit beweglichen Figuren
 
-Ein klassisches Tic-Tac-Toe-Spiel, erweitert mit **beweglichen Spielfiguren**, entwickelt in C++. Dieses Projekt ermöglicht es zwei menschlichen Spielern, direkt im Terminal zu spielen, mit einem interaktiven Spielfeld und automatischer Siegüberprüfung.
+Tic-Tac-Toe-Spiel, erweitert mit **beweglichen Spielfiguren**, entwickelt in C++. Dieses Projekt ermöglicht es zwei menschlichen Spielern, direkt im Terminal zu spielen, mit einem interaktiven Spielfeld und automatischer Siegüberprüfung.
 
 ## Funktionen
 
 - **Zwei-Spieler-Modus**  
-- **Bewegliche Figuren** nach der Anfangsphase  
+- **Bewegliche Figuren** nach der Platzierungsphase  
 - Automatische Überprüfung der Gewinnkombinationen  
-- Klare Darstellung des Spielfelds im Terminal  
+- Klare Darstellung des Spielbretts im Terminal  
 - Zukünftige Erweiterungen: **Mensch vs CPU**, Schwierigkeitsstufen und grafische Benutzeroberfläche
 
 ## Installation
