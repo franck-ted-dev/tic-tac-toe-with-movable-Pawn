@@ -15,7 +15,7 @@ Ein klassisches Tic-Tac-Toe-Spiel, erweitert mit **beweglichen Spielfiguren**, e
 ### Voraussetzungen
 
 - Ein moderner C++ Compiler (z. B. `g++`)  
-- Terminal unter Linux oder Windows
+- Terminal
 
 ### Kompilieren
 
@@ -33,7 +33,7 @@ g++ -I include main.cpp src/Board.cpp src/Game.cpp src/Player.cpp -o tictactoe
 
 ## Ablauf einer Partie
 
-- Platzierungsphase: Die beiden Spieler setzen abwechselnd ihre Spielfiguren (drei pro Spieler) auf dem Brett
+- Platzierungsphase: Die beiden Spieler setzen abwechselnd ihre Spielfiguren (drei pro Spieler) auf dem Brett.
   Falls es nach dieser Phase keinen Sieger gibt ( das ist so gut wie immer der Fall ), dann müssen die Spieler
   Schlacht liefern, um zu gewinnen.
 
